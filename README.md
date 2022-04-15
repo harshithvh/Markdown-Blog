@@ -1,5 +1,5 @@
 # Markdown-Blog
-Markdown-Blog using Node.js, Express and MongoDB with HTML, CSS and Bootstrap on the frontend
+Markdown-Blog using Node.js, Express and MongoDB with vanilla JS and Bootstrap on the frontend
 
 ## Usage
 ```
